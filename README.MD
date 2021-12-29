@@ -103,3 +103,11 @@ Esto es otro texto dividido por asteriscos.
 Esto es otro texto dividido por guiones bajos
 
 ___
+
+# Saltos de Linea
+Esto es nunestro primer parrago.
+
+Esto es nunestro segundo parrago.
+
+Esto es nunestro tercer parrago.
+- Lista
